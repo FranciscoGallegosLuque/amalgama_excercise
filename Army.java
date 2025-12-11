@@ -1,5 +1,3 @@
-package amalgama_excercise;
-
 import java.util.ArrayList;
 import java.util.Random;
 

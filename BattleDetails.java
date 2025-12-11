@@ -1,5 +1,3 @@
-package amalgama_excercise;
-
 public class BattleDetails {
     private int battleID;
 

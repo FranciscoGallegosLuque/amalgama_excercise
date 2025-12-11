@@ -1,5 +1,3 @@
-package amalgama_excercise;
-
 public class Civilization {
     private CivilizationType type;
     private int numberOfPikemen;

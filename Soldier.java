@@ -1,5 +1,3 @@
-package amalgama_excercise;
-
 public class Soldier {
     private int ID;
     private SoldierType type;
